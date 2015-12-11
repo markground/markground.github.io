@@ -63,7 +63,7 @@ body {
 h1 {
     font-family: 'Mr Dafoe', cursive;
     font-size: 7em;
-    color: #d14747;
+    color: #f2d70c;
     text-align: center;
 }
 
@@ -157,6 +157,11 @@ input[type="submit"]:hover {
 	color: #190909;
 }
 
+
+form {
+	font-family: Oswald-Regular;
+    color: #FFF;
+}
 /*-- Index-Page-Styling --*/
 
 /*--- Responsinator Code ---*/
